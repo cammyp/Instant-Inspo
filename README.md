@@ -19,8 +19,9 @@ For design assignment number one, we were tasked with putting our own personal s
 I built the instant inspo application from the codekit and also designed some particle emitters in a seprate applicaiton just to get familar with SprikeKit
 
 
-<div style="width:100%;height:0;padding-bottom:197%;position:relative;"><iframe src="https://giphy.com/embed/Q7RPVRQQFYTA3bYGbT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Q7RPVRQQFYTA3bYGbT">via GIPHY</a></p>
 
+
+![img](https://media.giphy.com/media/Q7RPVRQQFYTA3bYGbT/giphy.gif)
 
 
 
