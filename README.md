@@ -20,8 +20,13 @@ I built the instant inspo application from the codekit and also designed some pa
 
 
 
+# Videos
 
 ![img](https://media.giphy.com/media/Q7RPVRQQFYTA3bYGbT/giphy.gif)
-
+![img](https://media.giphy.com/media/IgjS5wLFMUBFRzWJpc/giphy.gif)
+![img](https://media.giphy.com/media/QB5B2llsK3GIlmEkJV/giphy.gif)
+![img](https://media.giphy.com/media/Zb5eWjpGKxzHt7clbG/giphy.gif)
+![img](https://media.giphy.com/media/fXbKHJV6XG1lPVFF62/giphy.gif)
+![img](https://media.giphy.com/media/VInfGHhZzSgCQmiULk/giphy.gif)
 
 
